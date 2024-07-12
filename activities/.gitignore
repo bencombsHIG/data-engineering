@@ -1,0 +1,4 @@
+.cfg
+*.cfg
+.DS_Store
+test*
